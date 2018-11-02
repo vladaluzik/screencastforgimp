@@ -1,2 +1,2 @@
 # screencastforgimp
-[![Watch the video]https://www.youtube.com/watch?v=C9WAjA2waJc&feature=youtu.be
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/resso..)](http://youtu.be/vt5fpE0bzSY)
